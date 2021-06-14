@@ -2,7 +2,7 @@
   "name": "site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ChewingGlassFund/site",
+  "homepage": "https://chewingglassfund.github.io/site/",
   "dependencies": {
     "@craco/craco": "6.1.2",
     "@tailwindcss/forms": "0.3.3",
