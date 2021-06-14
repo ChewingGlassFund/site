@@ -28,7 +28,7 @@
     "test": "craco test",
     "eject": "react-scripts eject",
     "predeploy": "craco build",
-    "deploy": "gh-pages -d build"
+    "deploy": "echo 'wum.bo' > ./build/CNAME && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
