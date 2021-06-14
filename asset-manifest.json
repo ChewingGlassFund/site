@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ChewingGlassFund/site/static/css/main.6928f89e.chunk.css",
+    "main.js": "/ChewingGlassFund/site/static/js/main.a905323e.chunk.js",
+    "main.js.map": "/ChewingGlassFund/site/static/js/main.a905323e.chunk.js.map",
+    "runtime-main.js": "/ChewingGlassFund/site/static/js/runtime-main.5c1446f9.js",
+    "runtime-main.js.map": "/ChewingGlassFund/site/static/js/runtime-main.5c1446f9.js.map",
+    "static/js/2.79a3123d.chunk.js": "/ChewingGlassFund/site/static/js/2.79a3123d.chunk.js",
+    "static/js/2.79a3123d.chunk.js.map": "/ChewingGlassFund/site/static/js/2.79a3123d.chunk.js.map",
+    "static/js/3.055ec91a.chunk.js": "/ChewingGlassFund/site/static/js/3.055ec91a.chunk.js",
+    "static/js/3.055ec91a.chunk.js.map": "/ChewingGlassFund/site/static/js/3.055ec91a.chunk.js.map",
+    "index.html": "/ChewingGlassFund/site/index.html",
+    "static/css/main.6928f89e.chunk.css.map": "/ChewingGlassFund/site/static/css/main.6928f89e.chunk.css.map",
+    "static/js/2.79a3123d.chunk.js.LICENSE.txt": "/ChewingGlassFund/site/static/js/2.79a3123d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ChewingGlassFund/site/static/media/beta-splash@2x.fc5ef1ce.png",
+    "static/media/logo.221ecac9.svg": "/ChewingGlassFund/site/static/media/logo.221ecac9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c1446f9.js",
+    "static/js/2.79a3123d.chunk.js",
+    "static/css/main.6928f89e.chunk.css",
+    "static/js/main.a905323e.chunk.js"
+  ]
+}
