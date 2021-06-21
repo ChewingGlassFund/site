@@ -14,7 +14,7 @@ const Footer: React.FC = () => (
       <a target="_blank" rel="noreferrer" href="https://twitter.com/teamwumbo">
         <img className="mr-2" src={twitterLogo} alt="twitter" width="30" />
       </a>
-      <a target="_blank" rel="noreferrer" href="https://discord.gg/XWmpzH4Y">
+      <a target="_blank" rel="noreferrer" href="https://discord.gg/S8wJBR2BQV">
         <img className="ml-2" src={discordLogo} alt="discord" width="30" />
       </a>
     </div>
