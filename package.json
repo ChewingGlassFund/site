@@ -2,7 +2,7 @@
   "name": "site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wumbo.info/",
+  "homepage": "http://wum.bo/",
   "dependencies": {
     "@craco/craco": "6.1.2",
     "@tailwindcss/forms": "0.3.3",
@@ -28,7 +28,7 @@
     "test": "craco test",
     "eject": "react-scripts eject",
     "predeploy": "craco build",
-    "deploy": "echo 'wumbo.info' > ./build/CNAME && gh-pages -d build"
+    "deploy": "echo 'wum.bo' > ./build/CNAME && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
